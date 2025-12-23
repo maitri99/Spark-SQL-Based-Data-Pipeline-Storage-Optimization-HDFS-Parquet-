@@ -1,8 +1,4 @@
-# Lab 3: Spark and Parquet Optimization Report
-
-Name:
- 
-NetID: 
+# Spark and Parquet Optimization Report
 
 ## Part 1: Spark
 
@@ -261,4 +257,5 @@ What to include in your report:
     - Finally, Repartitioning + sorting worked the best, and gace the best results. It was effeicint in filtersinf from the partitioning and improved compression adn locality from the sorting. It was able to perform well on the Big data set. 
 
 Basic Markdown Guide: https://www.markdownguide.org/basic-syntax/
+
 
